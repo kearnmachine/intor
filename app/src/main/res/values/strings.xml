@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Intoor</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_new_device">Register New Device</string>
+    <string name="register_device">Register new Device</string>
+    <string name="import_floor_map">Import floor map</string>
+    <string name="map_view">Map View</string>
+    <string name="resize_map">Resize map</string>
+    <string name="edit_devices">Edit devices</string>
+    <string name="scale_mode">Set scale</string>
+    <string name="exit_resize_mode">Exit resize mode</string>
+    <string name="exit_edit_mode">Exit edit mode</string>
+    <string name="exit_scale_mode">Exit scale mode</string>
+    <string name="title_activity_register_device">Register Device</string>
+    <string name="no_bluetooth">Bluetooth not enabled</string>
+    <string name="ble_not_supported">BluetoothLE not supported.</string>
+    <string name="title_activity_bluetooth_le">BluetoothLeActivity</string>
+    <string name="toggle_scan">Toggle scan</string>
+    <string name="show_all">Show all</string>
+    <string name="keep_selected">Keep selected</string>
+    <string name="enabled_wifi">Wifi was disabled. Enabled Wifi</string>
+    <string name="title_activity_device_detail">Enter details of device</string>
+    <string name="devicedetail_address">Address</string>
+    <string name="devicedetail_txpower">Transmission power</string>
+
+</resources>
